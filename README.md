@@ -94,3 +94,10 @@ This project allowed me to merge my audit background with FinTech skills. Blockc
 
 MIT License © Mayank Agarwal  
 Free to use with attribution.
+
+---
+
+## Resources
+
+[Python hashlib documentation](https://docs.python.org/3/library/hashlib.html)
+
