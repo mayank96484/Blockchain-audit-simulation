@@ -41,7 +41,7 @@ We use a simple blockchain prototype in Python. Each block includes:
 - Self-generated hash
 
 ### 🔸 Sample Code
-```python
+<pre> ```python
 import hashlib
 import datetime
 
@@ -56,7 +56,7 @@ class Block:
     def calculate_hash(self):
         content = f"{self.index}{self.timestamp}{self.data}{self.previous_hash}"
         return hashlib.sha256(content.encode()).hexdigest()
-```
+``` </pre>
 
 ---
 
